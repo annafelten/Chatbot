@@ -1,0 +1,6 @@
+Estoy contento también.#0.3
+Me alegro.#0.5
+Me lo estoy pasando pipa!#0.9
+¡Cómo mola!#0.4
+Es la leche.#0.7
+Bueno.#0.1

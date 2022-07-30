@@ -1,0 +1,7 @@
+Hasta luego, entonces.#0.4
+Adiós.#0.01
+Chao.#0.1
+Buenas noches, descansa.#0.3
+Hasta pronto.#0.4
+Gracias y que tengas un buen día.#0.8
+¡Besos!#0.4
